@@ -43,7 +43,7 @@ A dedicated Date dimension is used to support time intelligence and trend analys
 https://github.com/nehakatkar1398/ecommerce-star-schema-dashboard/blob/4ffddcdb7534893293fe8c3747d95f7af9e6a373/Image/Ecom_sales_datamodel_dashboard.png
 
 # 🔹 Data Model
-![Data Model](images/data_model.png)
+[![Data Model](images/data_model.png)](https://github.com/nehakatkar1398/ecommerce-star-schema-dashboard/blob/6714f82c61faa32719a5ea0a06b99fa71b4aee16/Image/Star_schema_Data_Model.png)
 
 # 🔹 Key Skills Demonstrated
 * Data Modeling (Star Schema Design)
