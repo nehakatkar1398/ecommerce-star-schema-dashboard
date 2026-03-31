@@ -40,7 +40,7 @@ A dedicated Date dimension is used to support time intelligence and trend analys
 /images   → Dashboard & Data Model screenshots
 
 # 🔹 Dashboard Preview
-![Dashboard](images/dashboard.png)
+https://github.com/nehakatkar1398/ecommerce-star-schema-dashboard/blob/4ffddcdb7534893293fe8c3747d95f7af9e6a373/Image/Ecom_sales_datamodel_dashboard.png
 
 # 🔹 Data Model
 ![Data Model](images/data_model.png)
